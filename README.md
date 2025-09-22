@@ -25,7 +25,7 @@ These models showcase **characters, environments, and props** — highlighting m
 3d-models/
 │
 ├── Props/
-│   └── BasketOfApples/
+│   └── a_basket_of_apples/
 │       ├── README.md
 │       ├── basket_of_apples.blend
 │       ├── textures/
