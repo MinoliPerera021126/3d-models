@@ -43,6 +43,6 @@ These models showcase **characters, environments, and props** — highlighting m
 I’m Minoli Perera, an IT undergraduate passionate about full-stack development, UI/UX design, and 3D art.
 This repo showcases my journey in 3D modeling for games, animation, and design projects.
 
-🔗 Check out my [GitHub Portfolio](https://github.com/MinoliPerera021126)
+🔗 Check out my [Portfolio](https://minoliperera021126.github.io/portfolio-minoli-perera/)
 
 💼 Connect with me on [LinkedIn](http://www.linkedin.com/in/hk-minoli-perera)
